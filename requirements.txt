@@ -1,0 +1,19 @@
+streamlit
+pandas
+plotly
+```
+
+**Deploy lên Streamlit Cloud:**
+1. Upload 2 files lên GitHub (như hướng dẫn trước)
+2. Deploy tại [share.streamlit.io](https://share.streamlit.io)
+3. Xong! 🎉
+
+---
+
+## ✍️ **Cách cập nhật hàng ngày:**
+
+**Siêu đơn giản - Chỉ cần mở Google Sheet:**
+1. Mở Sheet trên điện thoại/máy tính
+2. Thêm dòng mới:
+```
+   2024-12-05    1200000
